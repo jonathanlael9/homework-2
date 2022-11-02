@@ -1,2 +1,3 @@
-Jonathan Lael Aruan \n
-1313621006
+Jonathan Lael Aruan 
+1313621006 Ilmu Komputer 2021
+
